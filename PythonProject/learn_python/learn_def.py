@@ -63,7 +63,7 @@ class python:
         except Exception as address:
             print("输入的不是数字类型 %s" % address)
         finally:
-            print("finally代码，无论是否成功都要输出")
+            print("finally代码，无论是否成功都要输出!")
 
 
 xiaopi = python("huangchangjun")
